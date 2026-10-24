@@ -1,1 +1,1 @@
-# git-config---global-user.email-itzel25270-cbtis75.edu.mx-
+# git-config---global-user.email-itzel25270-cbtis75.edu.mx
